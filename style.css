@@ -4,7 +4,7 @@
 body{
     display: flex;
     flex-direction: column;
-    font-family: 'Acme', sans-serif;
+    font-family: 'Courier Prime', monospace;
 }
 nav {
     width: 100%;
@@ -26,9 +26,8 @@ main{
 main p{
     text-align: center;
 }
-/* From uiverse.io by @Mike11jr */
 .btn {
-    font-family: 'Acme', sans-serif;
+    font-family: 'Courier Prime', monospace;
     padding: 0.9em 1.9em;
     font-size: 16px;
     border: none;
